@@ -34,7 +34,7 @@ function App() {
   const id = open ? "simple-popover" : undefined;
 
   return (
-    <Row className="justify-content-center">
+    <Row className="w-50 justify-content-center">
       
       <Row>
         <h2>CARTE DE FRANCE REGIONALES</h2>
